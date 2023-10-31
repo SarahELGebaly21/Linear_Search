@@ -1,5 +1,5 @@
 # Linear_Search
-Fuction to lineeary search about element using puthon.<br>
+Fuction to linear search about element using puthon.<br>
 # Analysis
 | Cases | When does it happen | Time Complexity | Space Complexity |
 |------:|----------------------|-----------------|------------------|
