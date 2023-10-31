@@ -1,5 +1,5 @@
 # Linear_Search
-Lineear search fuction using puthon.<br>
+Fuction to lineeary search using puthon.<br>
 # Analysis
 | Cases | When does it happen | Time Complexity | Space Complexity |
 |------:|----------------------|-----------------|------------------|
