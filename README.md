@@ -1,6 +1,6 @@
 # Linear_Search
-Lineear search fuction using puthon.
-Analysis
+Lineear search fuction using puthon.<br>
+#Analysis
 | Cases | when does it happen | Time Complexity | Space Complexity |
 |------:|----------------------|-----------------|------------------|
 | Worst | When we search about last element | #O(n) | #o(1)|
